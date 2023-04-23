@@ -10,3 +10,10 @@ This module is used for rearranging names.
 
 * Calling 'rearrange_name("Turing, Alan")' will return '"Alan Turing"'
 * Calling 'rearrange_name("Hopper, Grace M.")' will return '"Grace M. Hopper"'
+
+#git commit -a --amend
+#git status
+
+#update more infoatom
+
+Closes #1
