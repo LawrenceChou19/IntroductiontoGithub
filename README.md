@@ -15,5 +15,4 @@ This module is used for rearranging names.
 #git status
 
 #update more infoatom
-
-Closes #1
+#git commit -a add Closes #1 to close the issue
